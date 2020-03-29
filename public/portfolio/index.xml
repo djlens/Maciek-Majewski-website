@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Maciek Majewski</title>
-    <link>/portfolio/</link>
+    <link>https://maciekmajewski.org/portfolio/</link>
     <description>Recent content in Portfolios on Maciek Majewski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maciekmajewski.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Avenida Do Brasil, Porto</title>
-      <link>/portfolio/avenida/</link>
+      <link>https://maciekmajewski.org/portfolio/avenida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/avenida/</guid>
+      <guid>https://maciekmajewski.org/portfolio/avenida/</guid>
       <description>(120 cm x 80 cm, akryl na płótnie / 120 cm x 80 cm, acrylic on canvas)</description>
     </item>
     
     <item>
       <title>Bar Kawowy</title>
-      <link>/portfolio/bar-kawowy/</link>
+      <link>https://maciekmajewski.org/portfolio/bar-kawowy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/bar-kawowy/</guid>
+      <guid>https://maciekmajewski.org/portfolio/bar-kawowy/</guid>
       <description>(30 cm x 40 cm, akryl na płótnie / 30 cm x 40 cm, acrylic on canvas)
 (obraz w prywatnej kolekcji / painting in private collection)</description>
     </item>
     
     <item>
       <title>Jardins da Avenida de Montevideu, Porto</title>
-      <link>/portfolio/jardins-da-avenida/</link>
+      <link>https://maciekmajewski.org/portfolio/jardins-da-avenida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/jardins-da-avenida/</guid>
+      <guid>https://maciekmajewski.org/portfolio/jardins-da-avenida/</guid>
       <description>(40 cm x 60 cm, akryl na płótnie / 40 cm x 60 cm, acrylic on canvas)</description>
     </item>
     
     <item>
       <title>Magic Hour (in Porto)</title>
-      <link>/portfolio/magic-hour/</link>
+      <link>https://maciekmajewski.org/portfolio/magic-hour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/magic-hour/</guid>
+      <guid>https://maciekmajewski.org/portfolio/magic-hour/</guid>
       <description>(50 cm x 70 cm, akryl na płótnie / 50 cm x 70 cm, acrylic on canvas)</description>
     </item>
     
     <item>
       <title>Plaża Matosinhos, Porto</title>
-      <link>/portfolio/matosinhos/</link>
+      <link>https://maciekmajewski.org/portfolio/matosinhos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/matosinhos/</guid>
+      <guid>https://maciekmajewski.org/portfolio/matosinhos/</guid>
       <description>(100 cm x 70 cm, akryl na płótnie / 100 cm x 70 cm, acrylic on canvas)</description>
     </item>
     
     <item>
       <title>Polscy Fachowcy Lecący Tanimi Liniami do Pracy w UK</title>
-      <link>/portfolio/polscy-fachowcy/</link>
+      <link>https://maciekmajewski.org/portfolio/polscy-fachowcy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/polscy-fachowcy/</guid>
+      <guid>https://maciekmajewski.org/portfolio/polscy-fachowcy/</guid>
       <description>(60 cm x 40 cm, akryl na płótnie / 60 cm x 40 cm, acrylic on canvas)</description>
     </item>
     
     <item>
       <title>Portugalski Surfista</title>
-      <link>/portfolio/portugalski-surfista/</link>
+      <link>https://maciekmajewski.org/portfolio/portugalski-surfista/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/portugalski-surfista/</guid>
+      <guid>https://maciekmajewski.org/portfolio/portugalski-surfista/</guid>
       <description>(90 cm x 60 cm, akryl na płótnie / 90 cm x 60 cm, acrylic on canvas)</description>
     </item>
     
