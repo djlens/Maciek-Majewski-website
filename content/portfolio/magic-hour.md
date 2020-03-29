@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "img/portfolio/magic-hour.jpg"
-showonlyimage = false
+showonlyimage = true
 title = "Magic Hour (in Porto)"
 weight = 0
 +++

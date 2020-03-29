@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "maciek-majewski-10f8e3.netlify.com"
 title = "Maciek Majewski"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "pl"
@@ -42,7 +42,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Portfolio"
   url = "portfolio/"
   home = true
 

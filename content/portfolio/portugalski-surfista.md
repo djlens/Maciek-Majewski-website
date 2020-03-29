@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "img/portfolio/portugalski-surfista.jpg"
-showonlyimage = false
+showonlyimage = true
 title = "Portugalski Surfista"
 weight = 0
 +++

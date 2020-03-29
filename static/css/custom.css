@@ -1,12 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Prata&display=swap');
+
 .sidebar-heading a {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 700;
     text-transform: uppercase;
 }
 
 body {
+    padding: 0 2em;
     background-color: white;
 }
+
+.box-masonry {
+     box-shadow: none; 
+} 
 
 .box-masonry-text h4 a {
     font-size: .9em;
@@ -14,4 +21,8 @@ body {
 
 .box-masonry-description p {
     font-size: .5em;
+}
+
+.link {
+    font-size: 0.6em;
 }
