@@ -16,4 +16,4 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Show only image', name: 'showonlyimage', widget: 'boolean' }
+      - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
