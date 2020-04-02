@@ -17,3 +17,4 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
+      - { label: 'Order', name: 'weight', widget: 'number' }

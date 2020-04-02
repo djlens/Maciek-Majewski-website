@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap');
 
 .sidebar-heading a {
-    font-size: 1.3em;
     font-weight: 500;
+    line-height: 1.3em;
     text-transform: uppercase;
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 .box-masonry-description p {
-    font-size: .5em;
+    font-size: .3em;
 }
 
 li {
@@ -29,3 +29,13 @@ li {
     font-weight: 400
 }
 
+
+
+@media (min-width: 1200px) {
+    .col-lg-8 {
+        width: 80%;
+    }
+    .sidebar-heading a {
+        font-size: 1.3em;
+    }
+}

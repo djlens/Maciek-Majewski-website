@@ -2,7 +2,7 @@
 draft: false
 title: Polscy Fachowcy Lecący Tanimi Liniami do Pracy w UK
 image: img/portfolio/polscy-fachowcy.jpg
-showonlyimage: false
+showonlyimage: true
 weight: 0
 date: 2020-03-30T13:56:19.682Z
 ---

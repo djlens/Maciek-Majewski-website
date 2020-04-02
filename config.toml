@@ -10,13 +10,13 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "blue"
+  style = "sea"
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
-  sidebarAbout = [
-    "Rysownik, animator i reżyser autorskich filmów animowanych.",
-    "Mieszka w Warszawie."
-  ]
+  # sidebarAbout = [
+  #   "Rysownik, animator i reżyser autorskich filmów animowanych.",
+  #   "Mieszka w Warszawie."
+  # ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
