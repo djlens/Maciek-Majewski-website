@@ -29,6 +29,8 @@
 <link href="https://gracious-wright-3f3f2b.netlify.com/css/custom.css" rel="stylesheet">
 <link rel="shortcut icon" href="https://gracious-wright-3f3f2b.netlify.com/img/favicon.png">
 
+  <link href="https://gracious-wright-3f3f2b.netlify.com/contact/index.xml" rel="alternate" type="application/rss+xml" title="Maciek Majewski" />
+
 
 </head>
 <body>
@@ -111,9 +113,30 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Plaża Matosinhos, Porto</h1>
-         <p>(100 cm x 70 cm, akryl na płótnie / 100 cm x 70 cm, acrylic on canvas)</p>
-
+         <h1>Kontakt</h1>
+         
+         
+         
+         <h4 class="personal-header">Napisz do mnie!</h4><br>
+         <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/you@yoursite.com">
+           <div class="controls">
+             <div class="form-group">
+               <label for="name">Twoje imię *</label>
+               <input type="text" name="name" id="name" required="required" class="form-control">
+             </div>
+             <div class="form-group">
+               <label for="email">Twój email *</label>
+               <input type="email" name="email" id="email" required="required" class="form-control">
+             </div>
+             <div class="form-group">
+               <label for="message">Twoja wiadomość *</label>
+               <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
+             </div>
+             <div>
+               <input type="submit" value="Wyślij" class="btn btn-ghost">
+             </div>
+           </div>
+         </form>
          
       </div>
     </div>

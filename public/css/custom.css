@@ -16,8 +16,9 @@ body {
      box-shadow: none; 
 } 
 
-.box-masonry-text h4 a {
+.box-masonry-text h4 {
     font-size: .9em;
+
 }
 
 .box-masonry-description p {
@@ -28,6 +29,28 @@ li {
     font-size: 1em;
     font-weight: 400
 }
+
+.copyright {
+    font-size: 9px;
+    width: 70%;
+    text-align: left !important;
+}
+
+.copyright p.credit {
+    font-size: 11px;
+    text-align: left !important;
+    margin-left: 0 !important;
+}
+
+.sidebar-menu {
+    margin-top: 2em;
+}
+
+.personal-header {
+    font-size: 1.6em;
+    margin-top: 0;
+}
+
 
 
 
