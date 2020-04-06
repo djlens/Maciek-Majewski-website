@@ -5,9 +5,25 @@ media_folder: static/img
 public_folder: /img
 collections:
      
-  - name: 'portfolio'
+  - name: 'home'
     label: 'Home'
-    folder: 'content/portfolio/'
+    folder: 'content/home/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
+      - { label: 'Order', name: 'weight', widget: 'number' }
+
+
+  - name: 'surfing'
+    label: 'Surfing'
+    folder: 'content/surfing/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -39,6 +55,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
 
