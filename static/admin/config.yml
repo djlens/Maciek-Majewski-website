@@ -18,3 +18,24 @@ collections:
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
       - { label: 'Order', name: 'weight', widget: 'number' }
+
+  - name: 'about'
+    label: 'About'
+    folder: 'content/about'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'body', widget: 'markdown'}
+
+  - name: 'contact'
+    label: 'Contact'
+    folder: 'content/contact'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Body', name: 'body', widget: 'markdown' }
