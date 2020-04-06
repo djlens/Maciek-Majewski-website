@@ -38,7 +38,7 @@ collections:
 
   - name: 'about'
     label: 'About'
-    file: 'content/about'
+    folder: 'content/about'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -49,7 +49,7 @@ collections:
 
   - name: 'contact'
     label: 'Contact'
-    file: 'content/contact'
+    folder: 'content/contact'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
