@@ -39,3 +39,39 @@ collections:
       preview: false
     fields:
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+
+  - name: 'content'
+    label: 'Pages'
+    files: 
+      - label: 'About'
+        name: 'about'
+        file: "website/content/about"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - widget: list
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Description', name: 'body', widget: 'markdown'}
+      - label: 'Contact'
+        name: 'contact'
+        file: 'website/content/contact'
+        fields: 
+          - {label: Title, name: title, widget: string}
+          - widget: list
+            fields: 
+              - { label: 'Body', name: 'body', widget: 'markdown' }
+
+      - label: 'Portfolio'
+        name: 'portfolio'
+        file: 'website/content/portfolio'
+        fields: 
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
+          - { label: 'Order', name: 'weight', widget: 'number' }
+
+
