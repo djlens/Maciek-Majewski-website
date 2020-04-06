@@ -43,9 +43,13 @@ googleAnalytics = ""
 
   # Nav links in the side bar  
   [[params.navlinks]]
-  name = "Portfolio"
-  url = "portfolio/"
+  name = "Home"
+  url = "home/"
   home = true
+
+  [[params.navlinks]]
+  name = "Surfing"
+  url = "surfing/"
 
   [[params.navlinks]]
   name = "O mnie"

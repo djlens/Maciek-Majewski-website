@@ -4,9 +4,10 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
+     
   - name: 'portfolio'
-    label: 'Portfolio'
-    folder: 'content/portfolio'
+    label: 'Home'
+    folder: 'content/portfolio/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
