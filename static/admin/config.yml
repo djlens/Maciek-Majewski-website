@@ -53,6 +53,7 @@ collections:
           - {label: Name, name: name, widget: string}
           - widget: list
             fields:
+              - {label: Name, name: name, widget: string}
               - { label: 'Title', name: 'title', widget: 'string' }
               - { label: 'Description', name: 'body', widget: 'markdown'}
       - label: 'Contact'
@@ -64,6 +65,8 @@ collections:
           - widget: list
             fields: 
               - { label: 'Body', name: 'body', widget: 'markdown' }
+              - {label: Name, name: name, widget: string}
+
 
       - label: 'Portfolio'
         name: 'portfolio'
