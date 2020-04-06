@@ -3,78 +3,42 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
-# collections:
-#   - name: 'portfolio'
-#     label: 'Portfolio'
-#     folder: 'content/portfolio'
-#     create: true
-#     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-#     editor:
-#       preview: false
-#     fields:
-#       - { label: 'Title', name: 'title', widget: 'string' }
-#       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-#       - { label: 'Body', name: 'body', widget: 'markdown' }
-#       - { label: 'Image', name: 'image', widget: 'image' }
-#       - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
-#       - { label: 'Order', name: 'weight', widget: 'number' }
+collections:
+  - name: 'portfolio'
+    label: 'Portfolio'
+    folder: 'content/portfolio'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
+      - { label: 'Order', name: 'weight', widget: 'number' }
 
-#   - name: 'about'
-#     label: 'About'
-#     folder: 'content/about'
-#     create: true
-#     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-#     editor:
-#       preview: false
-#     fields:
-#       - { label: 'Title', name: 'title', widget: 'string' }
-#       - { label: 'Description', name: 'body', widget: 'markdown'}
+  - name: 'about'
+    label: 'About'
+    folder: 'content/about'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'body', widget: 'markdown'}
 
-#   - name: 'contact'
-#     label: 'Contact'
-#     folder: 'content/contact'
-#     create: true
-#     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-#     editor:
-#       preview: false
-#     fields:
-#       - { label: 'Body', name: 'body', widget: 'markdown' }
-
-
-collections: 
-  - label: 'Pages'
-    name: 'content'
-    files: 
-      - name: 'about'
-        label: 'About'
-        file: 'website/content/about'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Description', name: 'body', widget: 'markdown'}
-
-      - name: 'contact'
-        label: 'Contact'
-        file: 'website/content/contact'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-
-      - name: 'portfolio'
-        label: 'Portfolio'
-        file: 'website/content/portfolio'
-        fields: 
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-          - label: 'Portfolio'
-            name: 'portfolio'
-            widget: 'list'
-            fields:
-              - { label: 'Title', name: 'title', widget: 'string' }
-              - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-              - { label: 'Body', name: 'body', widget: 'markdown' }
-              - { label: 'Image', name: 'image', widget: 'image' }
-              - { label: 'Show only image (no description)', name: 'showonlyimage', widget: 'boolean' }
-              - { label: 'Order', name: 'weight', widget: 'number' }
+  - name: 'contact'
+    label: 'Contact'
+    folder: 'content/contact'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 
 
 
