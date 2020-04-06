@@ -50,6 +50,7 @@ collections:
         file: "website/content/about"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Name, name: name, widget: string}
           - widget: list
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
@@ -59,6 +60,7 @@ collections:
         file: 'website/content/contact'
         fields: 
           - {label: Title, name: title, widget: string}
+          - {label: Name, name: name, widget: string}
           - widget: list
             fields: 
               - { label: 'Body', name: 'body', widget: 'markdown' }
