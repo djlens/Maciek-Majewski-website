@@ -5,4 +5,6 @@ image: /img/m_majewski_120cmx80cm_pink_dolphins_are_real_akr_pl_2019.jpg
 showonlyimage: false
 weight: 0
 ---
+Oil on canvas
+
 ![](/img/m_majewski_120cmx80cm_pink_dolphins_are_real_akr_pl_2019.jpg)
