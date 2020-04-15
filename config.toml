@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   title = "Maciek Majewski"
   style = "blue"
-  description = "Describe your website"
+  description = ""
   copyright = "&copy;2020 Maciek Majewski"
   # sidebarAbout = [
   #   "Rysownik, animator i reżyser autorskich filmów animowanych.",
