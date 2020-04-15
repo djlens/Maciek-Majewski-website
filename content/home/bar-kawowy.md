@@ -1,11 +1,12 @@
 ---
 draft: false
 title: Bar Kawowy
+date: 2020-03-30T13:36:13.719Z
 image: img/portfolio/bar-kawowy.jpg
 showonlyimage: true
 weight: 0
-date: 2020-03-30T13:36:13.719Z
 ---
+![](/img/bar-kawowy.jpg)
 
 Akryl na płótnie
 
