@@ -8,7 +8,7 @@
 
 body {
     padding: 0 2em;
-    background-color: white;
+    /* background-color: white; */
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -49,6 +49,15 @@ li {
 .personal-header {
     font-size: 1.6em;
     margin-top: 0;
+}
+
+/* Social media */
+
+p.social a {
+    border: none;
+    text-align: left;
+    width: min-content;
+    margin: 0;
 }
 
 

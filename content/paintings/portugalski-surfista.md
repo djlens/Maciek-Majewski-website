@@ -6,5 +6,6 @@ title = "Portugalski Surfista"
 weight = 0
 +++
 
-(90 cm x 60 cm, akryl na płótnie / 90 cm x 60 cm, acrylic on canvas)
+![Portugalski Surfista](/img/portfolio/portugalski-surfista.jpg)
 
+(90 cm x 60 cm, akryl na płótnie / 90 cm x 60 cm, acrylic on canvas)

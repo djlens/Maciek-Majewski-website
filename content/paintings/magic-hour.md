@@ -7,4 +7,7 @@ showonlyimage: false
 weight: 1
 ---
 
-(50 cm x 70 cm, akryl na płótnie / 50 cm x 70 cm, acrylic on canvas)
+![Magic Hour (in Porto)](/img/portfolio/magic-hour.jpg)
+
+(50 cm x 70 cm, akryl na płótnie)
+

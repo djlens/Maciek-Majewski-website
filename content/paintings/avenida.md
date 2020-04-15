@@ -9,3 +9,5 @@ weight: 0
 
 
 ![Avenida Do Brasil, Porto](/img/portfolio/avenida.jpg)
+
+(120 cm x 80 cm, akryl na płótnie / 120 cm x 80 cm, acrylic on canvas)

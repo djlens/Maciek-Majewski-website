@@ -43,13 +43,10 @@ googleAnalytics = ""
 
   # Nav links in the side bar  
   [[params.navlinks]]
-  name = "Home"
-  url = "home/"
+  name = "Paintings"
+  url = "paintings/"
   home = true
 
-  [[params.navlinks]]
-  name = "Surfing"
-  url = "surfing/"
 
   [[params.navlinks]]
   name = "O mnie"
@@ -60,13 +57,13 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
+  facebook      = "https://www.facebook.com/Maciej-Majewski-Malarstwo-Paintings-106814874032087/?hc_ref=ARS8ODD1BHcnrUcOL6TW5Iy6cPJOunL4T5_h4zXAE5LHeRVsiHcIofUPEQI5A-QRrgk&fref=nf&__tn__=kC-R"
   googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  email         = "maciek.majewski.mmm@gmail.com"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
+  instagram     = "https://www.instagram.com/maciek_majewski_unltd/?hl=pl"
   github        = "full profile url in github"
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"
