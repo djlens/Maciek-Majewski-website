@@ -7,4 +7,6 @@ showonlyimage: true
 weight: 1
 ---
 
-(50 cm x 70 cm, akryl na płótnie / 50 cm x 70 cm, acrylic on canvas)
+(50 cm x 70 cm, akryl na płótnie)
+
+(50 cm x 70 cm, akryl na płótnie)(50 cm x 70 cm, akryl na płótnie)(50 cm x 70 cm, akryl na płótnie)(50 cm x 70 cm, akryl na płótnie)(50 cm x 70 cm, akryl na płótnie)(50 cm x 70 cm, akryl na płótnie)

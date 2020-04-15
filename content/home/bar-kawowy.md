@@ -7,6 +7,9 @@ weight: 0
 date: 2020-03-30T13:36:13.719Z
 ---
 
+Akryl na płótnie
+
+
 (30 cm x 40 cm, akryl na płótnie / 30 cm x 40 cm, acrylic on canvas)
 
 (obraz w prywatnej kolekcji / painting in private collection
